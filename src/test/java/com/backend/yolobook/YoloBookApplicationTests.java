@@ -1,10 +1,10 @@
-package com.youtube.ecommerce;
+package com.backend.yolobook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ECommerceApplicationTests {
+class YoloBookApplicationTests {
 
     @Test
     void contextLoads() {

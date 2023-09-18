@@ -1,4 +1,4 @@
-package com.youtube.ecommerce.entity;
+package com.backend.yolobook.entity;
 
 import javax.persistence.*;
 import java.util.Set;

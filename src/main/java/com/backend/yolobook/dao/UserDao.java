@@ -1,6 +1,6 @@
-package com.youtube.ecommerce.dao;
+package com.backend.yolobook.dao;
 
-import com.youtube.ecommerce.entity.User;
+import com.backend.yolobook.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

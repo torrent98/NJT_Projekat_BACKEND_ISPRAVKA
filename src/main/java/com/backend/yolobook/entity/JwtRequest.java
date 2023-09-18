@@ -1,4 +1,4 @@
-package com.youtube.ecommerce.entity;
+package com.backend.yolobook.entity;
 
 public class JwtRequest {
 

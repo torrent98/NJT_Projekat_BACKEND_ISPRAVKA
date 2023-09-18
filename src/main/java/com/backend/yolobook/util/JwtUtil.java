@@ -1,4 +1,4 @@
-package com.youtube.ecommerce.util;
+package com.backend.yolobook.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
