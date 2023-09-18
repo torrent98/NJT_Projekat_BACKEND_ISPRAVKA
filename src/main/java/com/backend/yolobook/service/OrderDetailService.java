@@ -22,8 +22,14 @@ public class OrderDetailService {
     //---------------Koriscenje RAZORPAY-a------------//
     private static final String ORDER_PLACED = "Placed";
 
-    private static final String KEY = "rzp_test_AXBzvN2fkD4ESK";
-    private static final String KEY_SECRET = "bsZmiVD7p1GMo6hAWiy4SHSH";
+    //rzp_test_AXBzvN2fkD4ESK - KLJUC IZ TUTORIJALA
+    //rzp_test_EZhK6WRSgu3Wum - MOJ GENERISAN KLJUC
+    private static final String KEY = "rzp_test_EZhK6WRSgu3Wum";
+
+    //bsZmiVD7p1GMo6hAWiy4SHSH - KLJUC IZ TUTORIJALA
+    //CrboUs6iAvRpgKpg3gFC6FZg - MOJ GENERISAN KLJUC
+    private static final String KEY_SECRET = "CrboUs6iAvRpgKpg3gFC6FZg";
+    //INR
     private static final String CURRENCY = "INR";
 
     @Autowired
