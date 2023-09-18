@@ -1,7 +1,10 @@
 package com.backend.yolobook.entity;
 
+import javax.persistence.Id;
+
 public class JwtRequest {
 
+    @Id
     private String userName;
     private String userPassword;
 
